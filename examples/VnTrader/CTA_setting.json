@@ -1,0 +1,30 @@
+[
+    {
+        "name": "double ema",
+        "className": "EmaDemoStrategy",
+        "vtSymbol": "IF1709"
+    },
+
+    {
+        "name": "atr rsi",
+        "className": "AtrRsiStrategy",
+        "vtSymbol": "IC1709"
+    },
+
+    {
+        "name": "king keltner",
+        "className": "KkStrategy",
+        "vtSymbol": "IH1709"
+    },
+
+    {
+        "name": "long",
+        "className": "Strategycontrollong",
+        "vtSymbol": "au1706"
+    },
+    {
+        "name": "short",
+        "className": "Strategycontrolshort",
+        "vtSymbol": "au1706"
+    }
+]

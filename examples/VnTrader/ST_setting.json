@@ -1,0 +1,106 @@
+[
+    {
+        "name": "m.09-01",
+
+        "activeLeg": 
+            {
+                "vtSymbol": "m1709",
+                "ratio": 1,
+                "multiplier": 1.0,
+                "payup": 2
+            },
+
+        "passiveLegs": [
+            {
+                "vtSymbol": "m1801",
+                "ratio": -1,
+                "multiplier": -1.0,
+                "payup": 2
+            }
+        ]
+    },
+
+    {
+        "name": "IF.09-03",
+
+        "activeLeg":
+            {
+                "vtSymbol": "IF1709",
+                "ratio": 1,
+                "multiplier": 1.0,
+                "payup": 2
+            },
+
+        "passiveLegs": [
+            {
+                "vtSymbol": "IF1803",
+                "ratio": -1,
+                "multiplier": -1.0,
+                "payup": 2
+            }
+        ]
+    },
+
+    {
+        "name": "IH.09-03",
+
+        "activeLeg":
+            {
+                "vtSymbol": "IH1709",
+                "ratio": 1,
+                "multiplier": 1.0,
+                "payup": 2
+            },
+
+        "passiveLegs": [
+            {
+                "vtSymbol": "IH1803",
+                "ratio": -1,
+                "multiplier": -1.0,
+                "payup": 2
+            }
+        ]
+    },
+
+    {
+        "name": "IC.09-03",
+
+        "activeLeg":
+            {
+                "vtSymbol": "IC1709",
+                "ratio": 1,
+                "multiplier": 1.0,
+                "payup": 2
+            },
+
+        "passiveLegs": [
+            {
+                "vtSymbol": "IC1803",
+                "ratio": -1,
+                "multiplier": -1.0,
+                "payup": 2
+            }
+        ]
+    },
+
+    {
+        "name": "AU.12-06",
+
+        "activeLeg":
+            {
+                "vtSymbol": "au1712",
+                "ratio": 1,
+                "multiplier": 1.0,
+                "payup": 2
+            },
+
+        "passiveLegs": [
+            {
+                "vtSymbol": "au1806",
+                "ratio": -1,
+                "multiplier": -1.0,
+                "payup": 2
+            }
+        ]
+    }
+]
